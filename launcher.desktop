@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Testserver
+Exec=/home/ber/bin/webserver.sh
+Comment=Start a webserver
+Terminal=false
+Icon=/home/ber/bin/webserver.png
+Type=Application
